@@ -26,7 +26,7 @@ A curated list of awesome Pangeo related Python frameworks, libraries, software 
 * [Intake](https://intake.readthedocs.io/en/latest/) - A lightweight package for finding, investigating, loading and disseminating data.
 * [Intake-xarray](https://github.com/ContinuumIO/intake-xarray) - Intake plugin for xarray
 * [Intake-cmip](https://intake-cmip.readthedocs.io/en/latest/) - An intake plugin for reading CMIP5, and CMIP6 data using intake
-* [Intake-cesmle](https://intake-cesmle.readthedocs.io/en/latest/) - An intake plugin for reading CESM Large Ensembele datasets.
+* [Intake-cesmle](https://intake-cesmle.readthedocs.io/en/latest/) - An intake plugin for reading CESM Large Ensemble datasets.
 
 
 ## Data Wrangling
@@ -41,9 +41,11 @@ A curated list of awesome Pangeo related Python frameworks, libraries, software 
 * [Xarray for Multidimensional Data](https://rabernat.github.io/research_computing_2018/xarray.html) - xarray
 * [Python (and git) lesson for atmosphere and ocean scientists](https://github.com/carpentrieslab/python-aos-lesson) - xarray
 
-* [Pangeo: A Big Data Ecosystem for Scalable Earth System Science ](https://www.youtube.com/watch?v=2rgD5AJsAbE) - SciPy 2018
+* [Pangeo: A Big Data Ecosystem for Scalable Earth System Science ](https://youtu.be/2rgD5AJsAbE) - SciPy 2018
 * [Parallelizing Scientific Python with Dask](https://www.youtube.com/watch?v=mqdglv9GnM8) - SciPy 2018
    - [Materials](https://github.com/martindurant/dask-tutorial-scipy-2018)
-   
-* [ESIP Tech Dive: "Pangeo: A big data science platform"](https://www.youtube.com/watch?v=mDrjGxaXQT4)
 * [Dask examples](https://github.com/dask/dask-examples)
+
+* [ESIP Tech Dive: "Pangeo: A big data science platform"](https://youtu.be/mDrjGxaXQT4)
+* [ESIP Tech Dive: "Intake"](https://youtu.be/PSD7r3JFml0)
+* [ESIP Tech Dive: "Zarr: An open, scalable solution for big NetCDF/HDF data on the Cloud"](https://youtu.be/np_p4JBAIYI)
